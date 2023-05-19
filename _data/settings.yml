@@ -4,12 +4,12 @@ disqus:
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: ''
 
 menu:
-- {name: 'About',   url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Wiki',   url: 'https://roblox-crossroads-warfare.fandom.com/wiki/Roblox_Crossroads_Warfare_Wiki'}
+- {name: 'Play', url: 'https://www.roblox.com/games/397197102/Rodblogan-Warfare-BETA'}
+- {name: 'Devlogs', url: 'https://www.youtube.com/playlist?list=PLC10JO6BtEpoAha4Jf917-7wsuSPzo5L8'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
