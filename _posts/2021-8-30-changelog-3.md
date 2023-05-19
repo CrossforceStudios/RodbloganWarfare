@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lifeline Update Changelog (#2)"
+title: "Balancing Act Update Changelog (#3)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
