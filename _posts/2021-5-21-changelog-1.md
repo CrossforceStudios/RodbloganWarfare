@@ -4,6 +4,7 @@ title: "May 2021 Changelog (#1)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
 ---
 
 Welcome to the first-ever recorded changelog of Rodblogan Warfare! Here are the important changes:
