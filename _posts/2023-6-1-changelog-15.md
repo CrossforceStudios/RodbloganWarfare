@@ -4,6 +4,8 @@ title: "May Update Changelog (#15)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 
