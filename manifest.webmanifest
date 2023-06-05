@@ -1,0 +1,12 @@
+{
+    "name": "Rodblogan Warfare",
+    "short_name": "RW Franchise",
+    "start_url": "index.html",
+    "icons": [
+
+    ],
+    "shortcuts": [
+
+    ],
+    "display": "standalone"
+}
