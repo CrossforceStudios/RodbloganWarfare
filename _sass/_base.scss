@@ -2,15 +2,7 @@
   Base
 */
 
-@media (max-width: $elements-responsive-width) {
-  body {
-    font-size: 14px;
-    line-height: 1.5rem;
-  }
-  body h1 {
-    font-size: 1.5rem;
-  }
-}
+
 
 h1{
   font-size: 2rem;
@@ -20,10 +12,6 @@ h1 a {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $sans-serif-font-family;
-  color: $dark-gray-color;
-}
 
 a {
   text-decoration: underline;
