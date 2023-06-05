@@ -88,27 +88,3 @@
   Footer
 */
 
-footer {
-  width: 100%;
-  background-color: rgb(248,248,248);
-  background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(https://images.unsplash.com/photo-1514227765494-1bbd6ba05916?auto=format&fit=crop&w=1600&q=100) no-repeat;
-}
-
-.footer a {
-  color: $light-gray-color;
-  padding: 10px;
-  text-decoration: none;
-}
-
-.footer a:hover {
-  color: $dark-gray-color;
-}
-
-.footer-description {
-  display: block;
-  margin-top:3px;
-  margin-bottom: 1rem;
-  color: $light-gray-color;
-  font-family: $sans-serif-font-family;
-  font-size:0.8rem;
-}
