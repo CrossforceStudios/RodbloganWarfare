@@ -1,4 +1,5 @@
-{% for item in site.data.settings.social %}
+<div class="row u-center">
+  {% for item in site.data.settings.social %}
   {% assign first_char = item.link | slice: 0 %}
   {% if first_char == '/' %}
     <a href="{{ site.baseurl }}{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
@@ -6,3 +7,4 @@
     <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% endif %}
 {% endfor %}
+</div>
