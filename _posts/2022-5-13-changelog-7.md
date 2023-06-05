@@ -4,6 +4,8 @@ title: "Helicopter/Maintenance Update Changelog (#7)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 # Changelog 0.8.0

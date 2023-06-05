@@ -4,6 +4,8 @@ title: "Nexus Update II Changelog (#5)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 # Changelog 0.7.8

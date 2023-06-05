@@ -4,6 +4,8 @@ title: "Balancing Act Update Changelog (#3)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 Changelog v0.7.7

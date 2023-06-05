@@ -4,6 +4,8 @@ title: "Character-Logistics Update Changelog (#9)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 # Changelog 0.8.2

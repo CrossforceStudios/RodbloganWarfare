@@ -4,6 +4,8 @@ title: "Nexus Update III Changelog (#6)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 

@@ -4,6 +4,8 @@ title: "May 2021 Changelog 2 (#2)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 Changelog v0.7.6

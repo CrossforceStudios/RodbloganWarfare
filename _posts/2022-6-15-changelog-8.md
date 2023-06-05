@@ -4,6 +4,8 @@ title: "Squad-Smithery Update Changelog (#8)"
 author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
+update_type: "changelog"
+
 ---
 
 # Changelog 0.8.1
