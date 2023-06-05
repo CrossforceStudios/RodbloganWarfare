@@ -1,14 +1,9 @@
-<header id="topnav" class="p-navigation">
-  <div class="p-navigation__row">
-    <div class="p-navigation__banner">
-      <div class="p-navigation__tagged-logo">
-        <a class="p-navigation__link" href="{{ site.github.url }}/">
-          <div class="p-navigation__logo-tag">
-            <img class="p-navigation__logo-icon" src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" alt="">
-          </div>
-          <span class="p-navigation__logo-title">{{ site.title }}</span>
-        </a>
+<header id="topnav"class="header header-fixed u-unselectable header-animated">
+    <div class="header-brand">
+      <div class="nav-item no-hover">
+        <h6 class="title">{{ site.title }}</h6>
       </div>
+      <div class="nav-item nav-btn" id="header-btn"> <span></span> <span></span> <span></span> </div>
       {% include menu.html %}
       <!--<h3 class="header-title">
         <a href=""></a>
@@ -16,7 +11,4 @@
         
       </h3>-->
     </div>
-  </div>
-  <div class="p-navigation__search-overlay"></div>
-
 </header>
