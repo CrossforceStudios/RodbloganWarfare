@@ -23,16 +23,32 @@ layout: default
   {% if paginator.previous_page %}
   <div class="pagination-item pagination-prev">
     <a class="u-block" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
-      {{ site.data.settings.pagination.next_page }}
+      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
+      <h5 class="m-0">Later News</h5></a>
     </a>
   </div>
 {% else %}
-  <span class="pagination-item pagination-prev">{{ site.data.settings.pagination.next_page }}</span>
+  <div class="pagination-item pagination-prev">
+    <div class="u-block">
+      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
+      <h5 class="m-0">Later News</h5></a>
+    </a>
+  </div>
 {% endif %}
-  {% if paginator.next_page %}
-    <a class="pagination-item short" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-item short">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
+{% if paginator.next_page %}
+<div class="pagination-item pagination-next">
+  <a class="u-block" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+    <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
+    <h5 class="m-0">Later News</h5></a>
+  </a>
+</div>
+{% else %}
+<div class="pagination-item pagination-next">
+  <div class="u-block">
+    <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
+    <h5 class="m-0">Earlier News</h5></a>
+  </a>
+</div>
+{% endif %}
  
 </div>
