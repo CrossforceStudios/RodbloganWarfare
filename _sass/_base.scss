@@ -2,13 +2,6 @@
   Base
 */
 
-body {
-  font-family: $serif-font-family;
-  font-size: 18px;
-  color: $body-color;
-  line-height: 1.75rem;
-}
-
 @media (max-width: $elements-responsive-width) {
   body {
     font-size: 14px;
