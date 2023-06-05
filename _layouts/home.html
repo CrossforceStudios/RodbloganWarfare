@@ -19,18 +19,22 @@ layout: default
           </div>
         {% endif %}
           {% if post.update_type == "changelog" %}
-            <h5 class="subtitle text-gray-300">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+            <h5 class="subtitle text-gray-700">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
           {% else %}
-          <h5 class="subtitle text-gray-300">
+          <h5 class="subtitle text-gray-700">
             {{ post.content | strip_html | truncate: 64 }} 
           </h5>
           {% endif %}
+          <div class="divider--v" />
+          <div class="u-pull-right">
+            <a class="btn" href="{{ site.github.url }}{{ post.url }}">
+              <i class="fa-wrapper fa fa-chevron-left pad-right"></i>
+              Read more
+            </a>
+            <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
 
-          <a class="btn" href="{{ site.github.url }}{{ post.url }}">
-            <i class="fa-wrapper fa fa-chevron-left pad-right"></i>
-            Read more
-          </a>
-          <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+          </div>
+          
         </p>
       </div>
     </div>
