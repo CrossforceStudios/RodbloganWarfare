@@ -1,14 +1,9 @@
 <header id="topnav"class="header header-fixed u-unselectable header-animated">
     <div class="header-brand">
       <div class="nav-item no-hover">
-        <h6 class="title">{{ site.title }}</h6>
+        <h6 class="title tooltip" data-tooltip="{{ site.description }}">{{ site.title }}</h6>
       </div>
       <div class="nav-item nav-btn" id="header-btn"> <span></span> <span></span> <span></span> </div>
       {% include menu.html %}
-      <!--<h3 class="header-title">
-        <a href=""></a>
-        <small class="header-subtitle">{{ site.description }}</small>
-        
-      </h3>-->
     </div>
 </header>
