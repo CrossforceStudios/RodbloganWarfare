@@ -1,8 +1,10 @@
 <footer class="footer">
   <h6 class="footer__title text-white uppercase">{{ site.title }} </h6>
   <div class="content">
+    <p class="m-0">{{ site.description }}</p>
+
     {% include social-icons.html %}
-    <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.description }} by {{ site.author }}</a></div>
+    <div class="footer-description"><a href="{{ site.github.url }}/"> {{ site.author }}</a></div>
   </div>
 
 </footer>
