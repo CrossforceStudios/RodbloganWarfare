@@ -30,7 +30,12 @@ layout: default
               <i class="fa-wrapper fa fa-chevron-left pad-right"></i>
               Read more
             </a>
-            <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+            <div class="tag-container group-tags group-tags--rounded">
+              <div class="tag tag--md bg-yellow-300"><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date_to_string }}</div>
+            </div>
+            
+
+            <span class="post-date">  - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
 
           </div>
           
