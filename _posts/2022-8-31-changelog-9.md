@@ -5,7 +5,7 @@ author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
 update_type: "changelog"
-
+image: "aug-2022.png";
 ---
 
 # Changelog 0.8.2
