@@ -5,7 +5,7 @@ author: "Aerodos12"
 categories: changelogs
 tags: [changelogs]
 update_type: "changelog"
-
+image: "aug-2021.png"
 ---
 
 Changelog v0.7.7
