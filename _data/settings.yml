@@ -11,6 +11,9 @@ menu_ext:
 - {name: 'Play', url: 'https://www.roblox.com/games/397197102/Rodblogan-Warfare-BETA'}
 - {name: 'Devlogs', url: 'https://www.youtube.com/playlist?list=PLC10JO6BtEpoAha4Jf917-7wsuSPzo5L8'}
 
+menu:
+- {name: "Products", url: "/products"}
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://github.com/Aerodos12'}
