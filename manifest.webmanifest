@@ -18,7 +18,7 @@
     "shortcuts": [
         {
             "name": "RW Franchise",
-            "start_url": "/products",
+            "url": "/products",
             "short_name": "Products"
         }
     ],
