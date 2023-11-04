@@ -19,7 +19,24 @@
         {
             "name": "RW Franchise",
             "url": "/RodbloganWarfare/products",
-            "short_name": "Products"
+            "short_name": "Products",
+            "icons": [
+                {
+                    "src": "assets/img/logo-128.png",
+                    "type": "image/png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "assets/img/logo-256.png",
+                    "type": "image/png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "assets/img/logo-32.png",
+                    "type": "image/png",
+                    "sizes": "32x32"
+                }
+            ]
         }
     ],
     "display": "standalone",
