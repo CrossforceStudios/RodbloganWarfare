@@ -5,15 +5,15 @@
       {% assign size = item.size  %}
       {% if first_char == '/' %}
         {% if size == 's' %}
-            <a href="{{ site.baseurl }}{{ item.link }}"><i class="fas fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
+            <a href="{{ site.baseurl }}{{ item.link }}" class="social"><i class="fas fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
         {% else %}
-            <a href="{{ site.baseurl }}{{ item.link }}"><i class="fab  fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
+            <a href="{{ site.baseurl }}{{ item.link }}" class="social"><i class="fab  fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
         {% endif %}
       {% else %}
         {% if size == 's' %}
-            <a href="{{ item.link }}" target="_blank"><i class="fas fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
+            <a href="{{ item.link }}" target="_blank" class="social"><i class="fas fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
         {% else %}
-          <a href="{{ item.link }}" target="_blank"><i class="fab fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
+          <a href="{{ item.link }}" target="_blank" class="social"><i class="fab fa-wrapper fa-{{ item.icon }} large" aria-hidden="true"></i></a>
         {% endif %}
 
       {% endif %}
