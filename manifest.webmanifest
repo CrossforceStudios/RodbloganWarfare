@@ -22,5 +22,6 @@
             "short_name": "Products"
         }
     ],
-    "display": "standalone"
+    "display": "standalone",
+    "display_override": ["window-controls-overlay"]
 }
