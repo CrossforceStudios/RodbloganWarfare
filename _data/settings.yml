@@ -10,6 +10,7 @@ menu_ext:
 - {name: 'Wiki',   url: 'https://roblox-crossroads-warfare.fandom.com/wiki/Roblox_Crossroads_Warfare_Wiki'}
 - {name: 'Play', url: 'https://www.roblox.com/games/397197102/Rodblogan-Warfare-BETA'}
 - {name: 'Devlogs', url: 'https://www.youtube.com/playlist?list=PLC10JO6BtEpoAha4Jf917-7wsuSPzo5L8'}
+- {name: 'Guilded Server', url: 'https://www.guilded.gg/i/k5agoMVk'}
 
 menu:
 - {name: "Products", url: "/products"}
