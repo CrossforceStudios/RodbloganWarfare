@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rodblogan Warfare: Hard Doorstop Progress Update I"
+title: "Rodblogan Warfare: Harsh Doorstop Progress Update I"
 author: "Aerodos12"
 categories: mod-announcements
 tags: [mod-announcements]
