@@ -1,6 +1,6 @@
 
 
-let navBtns = document.querySelector(".rw-nav-menu-btn");
+let navBtns = document.querySelectorAll(".rw-nav-menu-btn");
 
 navBtns.forEach(function(ele) {
     ele.addEventListener("click", function() {
