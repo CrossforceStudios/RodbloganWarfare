@@ -1,15 +1,6 @@
 
 
-let navBtns = document.querySelectorAll("");
 
-navBtns.forEach(function(ele) {
-    ele.addEventListener("click", function() {
-
-        ele.classList.toggle("active");
-
-        navMenu.classList.toggle("active");
-    });
-});
 $(function(){
     $('.has-sub').on('click', function(e) { // Get all dropdown menu toggles
         $('.dropdown-menu').not($(this).children('.dropdown-menu')).removeClass('dropdown-shown'); // Hide all other dropdown menus
