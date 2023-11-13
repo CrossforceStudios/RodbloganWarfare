@@ -9,7 +9,7 @@ $(function(){
         $(this).toggleClass('active'); // Toggle the active selector on the nav-item
     });
     $('.rw-nav-menu-btn').on('click', function(e) { // Get all dropdown menu toggles
-        $(this.dataset.navid).toggleClass('active'); // Hide all other dropdown menus
+        $("#" + $(this).data("navid")).toggleClass('active'); // Hide all other dropdown menus
         $(this).toggleClass('active'); // Hide all other dropdown menus
     });
   });
