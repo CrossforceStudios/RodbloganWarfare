@@ -22,5 +22,4 @@ A rocket launcher that deserves a second chance and a second change. This launch
 
 This launcher is supposed to be the first alternative to the Panzerfuast 3 (as a whole). The last time it was in-game was in 2018, so this is a **MAJOR** comeback if successful.
 
-
-Either way, all of the aforementioned weapons will be bresent by the closing of Block II. AI will also receive the ability to use these and many other planned weapons. 
+Either way, all of the aforementioned weapons will be bresent by the closing of Block II. The AI will also receive the ability to use these and many other planned weapons.
