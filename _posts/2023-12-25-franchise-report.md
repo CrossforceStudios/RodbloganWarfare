@@ -72,6 +72,12 @@ The Bloxxers' Infantry have **ALWAYS** been known as insurgents (in the lore) si
 
 ![Bloxxer Militant](assets/img/xmasreport-05.png)
 
-The Bloxxer Militant is a reminder that they are terrorists at the end of the day (as a group without the individual). Taking its look from the IRA and various other terror organizations, this CO is a Crossroader's worst nightmare. When the Siege of the Crossroads began, the Militants were also seen in the second stage - scaring the crap out of the Dominion troops fighting them in the process. The inhuman mask that they wear screams of a cold soul - one that *doesn't give a damn* about the circumtances nor identity of their enemies. You see, unlike the Yakuza no Bushi (ヤクザ の 武士), The Militant cannot think clearly due to **YEARS** of training. This training ultimately hardened them against being defectors. At the end of the war, **NO MILITANT** was spared. 
+The Bloxxer Militant is a reminder that they are terrorists at the end of the day (as a group without the individual). Taking its look from the IRA and various other terror organizations, this CO is a Crossroader's worst nightmare. When the Siege of the Crossroads began, the Militants were also seen in the second stage - scaring the crap out of the Dominion troops fighting them in the process. The inhuman mask that they wear screams of a cold soul - one that *doesn't give a damn* about the circumtances nor identity of their enemies. You see, unlike the Yakuza no Bushi (ヤクザ の 武士), The Militant cannot think (against war crimes  and other atrocities) clearly due to **YEARS** of training. This training ultimately hardened them against being defectors. At the end of the war, **NO MILITANT** was spared. 
+
+#### 6. Bloxxer (Boxer) Partisan
+
+![Bloxxer Partisan](assets/img/xmasreport-06.png)
+
+The Bloxxer Partisan is the **ultimate** Militant. Capable of manning .50 cal. MGs, Grenade MGs, rocket launchers and even AV-18/19 attack helicopters, these enemies are not to be toyed with.
 
 
