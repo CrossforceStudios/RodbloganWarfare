@@ -23,18 +23,28 @@ The outfits of **EVERY FACTION IN THE GAME** has been revamped. Our team (2 men,
 The backbone of the Robloxian Republic, this unit how has a better representation of itself than in 2022. In 2022, it was perceived as a police force. Now, it's perceived as a full 
 fighting force. This Republic trooper now has new classes that mostly replaced the old ones:
 
-- Support Infantry (replaces most Bandoliers)
-- Support Infantry 2nd Class (replaces Partisan Marksman)
-- Specialized Infantry (replaces Breach Infantry)
+- **Support Infantry (replaces most Bandoliers)**
+- **Support Infantry 2nd Class (replaces Partisan Marksman)**
+- **Specialized Infantry (replaces Breach Infantry)**
 
 #### 2. Robloxian (Robian) Officer
 
-![Robloxian Gendarme](assets/img/xmasreport-02.png)
+![Robloxian Officer](assets/img/xmasreport-02.png)
 
 The squad leader, medic and architect are all in this one. A lot of classes have been replaced here, so let's show them below:
 
-- Assistant Personnel (replaces the Assistant Bandolier)
-- Commanding Personnel (New Unit - acts as a squad leader)
-- Medic Personnel (replaces M.O.U)
-- Constructive Personnel (replaces G.O.U)
-- Gunsmith Personnel (New Unit - provides in-field maintenance to armaments)
+- **Assistant Personnel (replaces the Assistant Bandolier)**
+- **Commanding Personnel (New Unit - acts as a squad leader)**
+- **Medic Personnel (replaces M.O.U)**
+- **Constructive Personnel (replaces G.O.U)**
+- **Gunsmith Personnel (New Unit - provides in-field maintenance to armaments)**
+
+![Robloxian Technician](assets/img/xmasreport-03.png)
+
+The heavier, utilitarian Crewman unit of the Republic has an even simpler look and feel to it than the previously mentioned unit. As a result some alterations were made (such as gloves). Here are the confirmed sub-units: 
+
+- **Gunner Crewman (replaces the Gunner Bandolier)**
+- **Artillery Crewman (replaces the E.O.U)**
+- **Vehicle Crewman (replaces PARTIALLY the Tanker Bandolier and the Outcast)**
+- **Naval Crewman Personnel (New Unit - used on warships and small gunboats)**
+- **Pilot Crewman (New Unit - provides air support MANUALLY)**
