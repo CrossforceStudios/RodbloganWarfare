@@ -61,3 +61,11 @@ The classic marksman has also been reworked - both physically and functionally. 
 - **Sabotage Marksman (replaces the Sharpshooter Marksman)**
 
 Also, Marksmen also received access to DMRs for the first time ever. This is due to the ambiguity of the rifles in the hands of precise personnel (such as the Support Infantry 2nd Class and the Marksman).
+
+#### 5. Bloxxer (Robian) Insurgent
+
+![Bloxxer Insurgent](assets/img/xmasreport-05.png)
+
+The Bloxxers' Infantry have **ALWAYS** been known as insurgents (in the lore) since the 1980s. However, when the insurgency became a confederate entity in 2002, The Robloxians and other free Rodblogan States (yes - the Dominion and Telagans are included here) became **VERY** concerned. This was only (in the lore) exactly 5 months after the 9/11 attacks took place in the USA. When the Bloxxer-Robloxian war broke out vehemently on November 28th, 2009 (in the game and the lore), the gear that they wore scare **THE LIVING DAYLGHTS** out of many Dominion troops that fought that day. In other terms, never would anyone think the Confederation would be capable of fighting their enemies in this fashion (they were insurgents before this).
+
+
