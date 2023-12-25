@@ -39,6 +39,9 @@ The squad leader, medic and architect are all in this one. A lot of classes have
 - **Constructive Personnel (replaces G.O.U)**
 - **Gunsmith Personnel (New Unit - provides in-field maintenance to armaments)**
 
+#### 3. Robloxian (Robian) Technician
+
+
 ![Robloxian Technician](assets/img/xmasreport-03.png)
 
 The heavier, utilitarian Crewman unit of the Republic has an even simpler look and feel to it than the previously mentioned unit. As a result some alterations were made (such as gloves). Here are the confirmed sub-units: 
@@ -48,3 +51,13 @@ The heavier, utilitarian Crewman unit of the Republic has an even simpler look a
 - **Vehicle Crewman (replaces PARTIALLY the Tanker Bandolier and the Outcast)**
 - **Naval Crewman Personnel (New Unit - used on warships and small gunboats)**
 - **Pilot Crewman (New Unit - provides air support MANUALLY)**
+
+#### 4. Robloxian (Robian) Ranger
+
+![Robloxian Ranger](assets/img/xmasreport-04.png)
+
+The classic marksman has also been reworked - both physically and functionally. Here are the new sub-units: 
+
+- **Sabotage Marksman (replaces the Sharpshooter Marksman)**
+
+Also, Marksmen also received access to DMRs for the first time ever. This is due to the ambiguity of the rifles in the hands of precise personnel (such as the Support Infantry 2nd Class and the Marksman).
