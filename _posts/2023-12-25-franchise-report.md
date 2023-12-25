@@ -87,3 +87,17 @@ Many other units have been improved as well. The unit system overhaul was the fi
 
 
 ## Maps
+
+Five new maps were introduced to The Cherished Companies. They are:
+
+1. Ultima Expanse
+2. La Petite Carentan
+3. Fort Vulcan
+4. The Lucas Line
+5. Emerald Forest (Winter)
+
+Let's go over them.
+
+### Ultima Expanse
+
+More than two years after the failure that was Ultima Run, A new version of Ultima was born. That was Ultima Expanse. 
