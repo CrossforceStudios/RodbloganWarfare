@@ -62,10 +62,16 @@ The classic marksman has also been reworked - both physically and functionally. 
 
 Also, Marksmen also received access to DMRs for the first time ever. This is due to the ambiguity of the rifles in the hands of precise personnel (such as the Support Infantry 2nd Class and the Marksman).
 
-#### 5. Bloxxer (Robian) Insurgent
+#### 5. Bloxxer (Boxer) Insurgent
 
 ![Bloxxer Insurgent](assets/img/xmasreport-05.png)
 
 The Bloxxers' Infantry have **ALWAYS** been known as insurgents (in the lore) since the 1980s. However, when the insurgency became a confederate entity in 2002, The Robloxians and other free Rodblogan States (yes - the Dominion and Telagans are included here) became **VERY** concerned. This was only (in the lore) exactly 5 months after the 9/11 attacks took place in the USA. When the Bloxxer-Robloxian war broke out vehemently on November 28th, 2009 (in the game and the lore), the gear that they wore scare **THE LIVING DAYLGHTS** out of many Dominion troops that fought that day. In other terms, never would anyone think the Confederation would be capable of fighting their enemies in this fashion (they were insurgents before this).
+
+#### 5. Bloxxer (Boxer) Militant
+
+![Bloxxer Militant](assets/img/xmasreport-05.png)
+
+The Bloxxer Militant is a reminder that they are terrorists at the end of the day (as a group without the individual). Taking its look from the IRA and various other terror organizations, this CO is a Crossroader's worst nightmare. When the Siege of the Crossroads began, the Militants were also seen in the second stage - scaring the crap out of the Dominion troops fighting them in the process. The inhuman mask that they wear screams of a cold soul - one that *doesn't give a damn* about the circumtances nor identity of their enemies. You see, unlike the Yakuza no Bushi (ヤクザ の 武士), The Militant cannot think clearly due to **YEARS** of training. This training ultimately hardened them against being defectors. At the end of the war, **NO MILITANT** was spared. 
 
 
