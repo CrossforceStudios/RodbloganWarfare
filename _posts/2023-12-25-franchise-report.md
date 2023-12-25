@@ -27,7 +27,7 @@ fighting force. This Republic trooper now has new classes that mostly replaced t
 - **Support Infantry 2nd Class (replaces Partisan Marksman)**
 - **Specialized Infantry (replaces Breach Infantry)**
 
-#### 2. Robloxian (Robian) Officer
+### 2. Robloxian (Robian) Officer
 
 ![Robloxian Officer](assets/img/xmasreport-02.png)
 
@@ -39,7 +39,7 @@ The squad leader, medic and architect are all in this one. A lot of classes have
 - **Constructive Personnel (replaces G.O.U)**
 - **Gunsmith Personnel (New Unit - provides in-field maintenance to armaments)**
 
-#### 3. Robloxian (Robian) Technician
+### 3. Robloxian (Robian) Technician
 
 
 ![Robloxian Technician](assets/img/xmasreport-03.png)
@@ -52,7 +52,7 @@ The heavier, utilitarian Crewman unit of the Republic has an even simpler look a
 - **Naval Crewman Personnel (New Unit - used on warships and small gunboats)**
 - **Pilot Crewman (New Unit - provides air support MANUALLY)**
 
-#### 4. Robloxian (Robian) Ranger
+### 4. Robloxian (Robian) Ranger
 
 ![Robloxian Ranger](assets/img/xmasreport-04.png)
 
@@ -62,22 +62,28 @@ The classic marksman has also been reworked - both physically and functionally. 
 
 Also, Marksmen also received access to DMRs for the first time ever. This is due to the ambiguity of the rifles in the hands of precise personnel (such as the Support Infantry 2nd Class and the Marksman).
 
-#### 5. Bloxxer (Boxer) Insurgent
+### 5. Bloxxer (Boxer) Insurgent
 
 ![Bloxxer Insurgent](assets/img/xmasreport-05.png)
 
 The Bloxxers' Infantry have **ALWAYS** been known as insurgents (in the lore) since the 1980s. However, when the insurgency became a confederate entity in 2002, The Robloxians and other free Rodblogan States (yes - the Dominion and Telagans are included here) became **VERY** concerned. This was only (in the lore) exactly 5 months after the 9/11 attacks took place in the USA. When the Bloxxer-Robloxian war broke out vehemently on November 28th, 2009 (in the game and the lore), the gear that they wore scare **THE LIVING DAYLGHTS** out of many Dominion troops that fought that day. In other terms, never would anyone think the Confederation would be capable of fighting their enemies in this fashion (they were insurgents before this).
 
-#### 5. Bloxxer (Boxer) Militant
+### 5. Bloxxer (Boxer) Militant
 
 ![Bloxxer Militant](assets/img/xmasreport-05.png)
 
 The Bloxxer Militant is a reminder that they are terrorists at the end of the day (as a group without the individual). Taking its look from the IRA and various other terror organizations, this CO is a Crossroader's worst nightmare. When the Siege of the Crossroads began, the Militants were also seen in the second stage - scaring the crap out of the Dominion troops fighting them in the process. The inhuman mask that they wear screams of a cold soul - one that *doesn't give a damn* about the circumtances nor identity of their enemies. You see, unlike the Yakuza no Bushi (ヤクザ の 武士), The Militant cannot think (against war crimes  and other atrocities) clearly due to **YEARS** of training. This training ultimately hardened them against being defectors. At the end of the war, **NO MILITANT** was spared. 
 
-#### 6. Bloxxer (Boxer) Partisan
+### 6. Bloxxer (Boxer) Partisan
 
 ![Bloxxer Partisan](assets/img/xmasreport-06.png)
 
 The Bloxxer Partisan is the **ultimate** Militant. Capable of manning .50 cal. MGs, Grenade MGs, rocket launchers and even AV-18/19 attack helicopters, these enemies are not to be toyed with.
 
 
+### 7. Other Units
+
+Many other units have been improved as well. The unit system overhaul was the first in 3 years and the most practical implementation of a class system the game has ever seen in its nearly 6-year history.
+
+
+## Maps
