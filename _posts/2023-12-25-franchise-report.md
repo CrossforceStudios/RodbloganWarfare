@@ -100,4 +100,8 @@ Let's go over them.
 
 ### Ultima Expanse
 
-More than two years after the failure that was Ultima Run, A new version of Ultima was born. That was Ultima Expanse. 
+More than two years after the failure that was Ultima Run, A new version of Ultima was born. That was Ultima Expanse. Now, the newer map contains a vast jungle veiling the old cover that was part of Ultima Run and the original map. It also features sniper towers that can be entered using climbing.
+
+## La Petite Carentan
+
+Widely regarded as one of the prettiest maps ever made in Rodbloogan Warfare history, this rural map contains many autmnal trees and contemporary elements. Recently, It got a second makeover to enhance that beauty and allow for better gameplay.
