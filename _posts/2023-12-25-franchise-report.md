@@ -105,3 +105,7 @@ More than two years after the failure that was Ultima Run, A new version of Ulti
 ## La Petite Carentan
 
 Widely regarded as one of the prettiest maps ever made in Rodbloogan Warfare history, this rural map contains many autmnal trees and contemporary elements. Recently, It got a second makeover to enhance that beauty and allow for better gameplay.
+
+# Fort Vulcan 
+
+The first-ever war group map isn't just that - it's also a **MAJOR** development in the music department. The theme for the map is named Walking on Eggshells. It also happens to be the inspiration for "Rumbling of the Rangers", "From Hawks to Brigadiers" and of course, the game's main theme.
