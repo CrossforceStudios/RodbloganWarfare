@@ -100,6 +100,8 @@ Let's go over them.
 
 ### Ultima Expanse
 
+![Bloxxer side of the Ultima Expanse](assets/img/xmasreport-07.png)
+
 More than two years after the failure that was Ultima Run, A new version of Ultima was born. That was Ultima Expanse. Now, the newer map contains a vast jungle veiling the old cover that was part of Ultima Run and the original map. It also features sniper towers that can be entered using climbing.
 
 ### La Petite Carentan
