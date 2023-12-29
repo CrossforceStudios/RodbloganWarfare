@@ -106,6 +106,8 @@ More than two years after the failure that was Ultima Run, A new version of Ulti
 
 ### La Petite Carentan
 
+![One of the La Petite Carentan thumbnails for TCC](assets/img/xmasreport-08.png)
+
 Widely regarded as one of the prettiest maps ever made in Rodbloogan Warfare history, this rural map contains many autmnal trees and contemporary elements. Recently, It got a second makeover to enhance that beauty and allow for better gameplay.
 
 ### Fort Vulcan 
