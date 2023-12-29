@@ -121,3 +121,7 @@ The first-ever war group map isn't just that - it's also a **MAJOR** development
 ![One of the Lucas Line trenches](assets/img/xmasreport-10.jpg)
 
 The Lucas Line was a reincarnation of The Underground War, a map made by the new version's namesake ([@stickmasterluke](https://www.roblox.com/users/80254/profile)). It's new focus (major improvement) was the "underground" aspect for the map - the Wartime Tunnels (SCP-style tunnels that run underneath the battlefield). According to lore, the raids between Bloxxers and Robloxians would happen under there as well as above-ground. This is due to the line being a borderland (indicated by the ruins of a former farm in the area).
+
+### Emerald Forest (Winter Edition)
+
+The Emerald Forest has now become engulfed in winter's gaze - covered in white and devoid of the green and the tents that stood in this forest. This map was also part of a **MAJOR** effort to increase the amount of alpine maps in the game (stems back to 2019 with *proposed* winter variants of the Crossroads).
