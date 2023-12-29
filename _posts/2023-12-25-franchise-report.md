@@ -108,14 +108,17 @@ More than two years after the failure that was Ultima Run, A new version of Ulti
 
 ![One of the La Petite Carentan thumbnails for TCC](assets/img/xmasreport-08.jpg)
 
-Widely regarded as one of the prettiest maps ever made in Rodbloogan Warfare history, this rural map contains many autmnal trees and contemporary elements. Recently, It got a second makeover to enhance that beauty and allow for better gameplay.
+Widely regarded as one of the prettiest maps ever made in Rodblogan Warfare history, this rural map contains many autmnal trees and contemporary elements. Recently, it got a second makeover to enhance that beauty and allow for better gameplay.
 
-### Fort Vulcan 
+### Fort Vulcan
 
 ![Fort Vulcan in view during an AK inspect animation](assets/img/xmasreport-09.png)
 
 The first-ever war group map isn't just that - it's also a **MAJOR** development in the music department. The theme for the map is named Walking on Eggshells. It also happens to be the inspiration for "Rumbling of the Rangers", "From Hawks to Brigadiers" and of course, the game's main theme.
 
-### The Lucas Line 
+### The Lucas Line
 
-The Lucas Line was a reincarnation of The Underground War, a map made by the new version's namesake ([@stickmasterluke](https://www.roblox.com/users/80254/profile)). It's new focus (major improvement) was the "underground" aspect for the map - the Wartime Tunnels (SCP-style tunnels that run underneath the battlefield). According to lore, the raids between Bloxxers and Robloxians would happen under there as well as above-ground. This is due to the line being a borderland (indicated by the ruins of a former farm in the area). 
+![One of the Lucas Line trenches](assets/img/xmasreport-10.png)
+
+
+The Lucas Line was a reincarnation of The Underground War, a map made by the new version's namesake ([@stickmasterluke](https://www.roblox.com/users/80254/profile)). It's new focus (major improvement) was the "underground" aspect for the map - the Wartime Tunnels (SCP-style tunnels that run underneath the battlefield). According to lore, the raids between Bloxxers and Robloxians would happen under there as well as above-ground. This is due to the line being a borderland (indicated by the ruins of a former farm in the area).
