@@ -125,3 +125,13 @@ The Lucas Line was a reincarnation of The Underground War, a map made by the new
 ### Emerald Forest (Winter Edition)
 
 The Emerald Forest has now become engulfed in winter's gaze - covered in white and devoid of the green and the tents that stood in this forest. This map was also part of a **MAJOR** effort to increase the amount of alpine maps in the game (stems back to 2019 with *proposed* winter variants of the Crossroads).
+
+## Customization
+
+A lot has happened this year regarding the customization of weapons, so let's see it!
+
+### Furnitures & Alloys
+
+In January, 7 new furnitures were added for the FX-05 rifles and carbines. Some were solid colors, but 4 were ***very*** special. These camos haven't seen the light of day in RW since 2019. However, that changes with the reintroduction of these types of camos. Also, the SA80s received a new Tan Furniture - the first ever for the new rifle.
+
+## New Magazines
