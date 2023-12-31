@@ -132,7 +132,7 @@ A lot has happened this year regarding the customization of weapons, so let's se
 
 ### Furnitures & Alloys
 
-![L85A2 with the SA80 Tan Furniture](assets/img/xmasreport-11.jpg)
+![L85A2 with the SA80 Tan Furniture](assets/img/xmasreport-11.png)
 
 
 
