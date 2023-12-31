@@ -132,7 +132,7 @@ A lot has happened this year regarding the customization of weapons, so let's se
 
 ### Furnitures & Alloys
 
-In January, 7 new furnitures were added for the FX-05 rifles and carbines. Some were solid colors, but 4 were ***very*** special. These camos haven't seen the light of day in RW since 2019. However, that changes with the reintroduction of these types of camos. Also, the SA80s received a new Tan Furniture and a new Green Furniture - the first ever for the new rifle. The HK21 also received furnitures in June of 2023.
+In January, 7 new furnitures were added for the FX-05 rifles and carbines. Some were solid colors, but 4 were ***very*** special. These camos haven't seen the light of day in RW since 2019. However, that changes with the reintroduction of these types of camos. Also, the SA80s received a new Tan Furniture and a new Green Furniture - the first ever for the new rifle. The Colt Python and HK21 also received furnitures/alloys as of April and June of 2023 (repsectively).
 
 ## Magazines
 
@@ -140,4 +140,16 @@ In 2023, The Thompsons (M1921-M1A1) received a new 20-round box magazine. Other 
 
 ## Attachments
 
-**MANY** attachments were added to Rodblogan Warfare this year.
+**MANY** attachments were added to Rodblogan Warfare this year. Here are prominent ones:
+
+### Colt Python Barrels
+
+Both the stubby and targeting versions of the Colt Python's barrel came back this year. Returning in April, these barrels paved the way for the furniutre additions menitoned above as well as heavy sound changes to the longtime Revolver.
+
+### G3SG/1 Stock
+
+The G3SG/1 Stock being added was also major to RW. With the addition of the rail mount, the Stock was just another puzzle piece to complete the construction of a makeshift G3SG/1 rifle **in-game**. Combined with the strengths of the HK31A3 (G3A3 in other games), this stock makes it almost feel real.
+
+### Ultradot PANAV
+
+The PANAV is a new sight that slightly resembles the Kobra in Phantom Forces. The main difference? The reticle is interchangeable **in-game**. This attachment is the first of its kind - an attachment that *immediately* switches to a new reticle when the sight is adjusted. 
