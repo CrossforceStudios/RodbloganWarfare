@@ -112,7 +112,8 @@ Widely regarded as one of the prettiest maps ever made in Rodblogan Warfare hist
 
 ### Fort Vulcan
 
-![Fort Vulcan in view during an AK inspect animation](assets/img/xmasreport-09.png)
+<img src="assets/img/xmasreport-09.png" class="img-large">
+
 
 The first-ever war group map isn't just that - it's also a **MAJOR** development in the music department. The theme for the map is named Walking on Eggshells. It also happens to be the inspiration for "Rumbling of the Rangers", "From Hawks to Brigadiers" and of course, the game's main theme.
 
