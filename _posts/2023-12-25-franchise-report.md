@@ -194,4 +194,6 @@ The M4A1's sling may not be important at first glance. However, the addition of 
 A staple of Rodblogan Warfare for nearly **6 years**, this optic has been remodeled as of late. The new look resembles the first remodeleing attempt, but *way* more realistic than that. It is major due to the significance of the sight throughout the game's history (as well as the first-ever attempt at elevation adjustments).
 
 
-## 
+## Character Movement
+
+Character Movement has also been a focus of 2023.
