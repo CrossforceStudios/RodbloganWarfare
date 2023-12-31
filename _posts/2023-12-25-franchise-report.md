@@ -151,7 +151,9 @@ In 2023, The Thompsons (M1921-M1A1) received a new 20-round box magazine. Other 
 
 ### Colt Python Barrels
 
-<video src="assets/img/xmasreport-12.mp4"></video>
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline>
+    <source src="assets/img/xmasreport-12.mp4" type="video/mp4"/>
+</video>
 
 Both the stubby and targeting versions of the Colt Python's barrel came back this year. Returning in April, these barrels paved the way for the furniutre additions menitoned above as well as heavy sound changes to the longtime Revolver.
 
