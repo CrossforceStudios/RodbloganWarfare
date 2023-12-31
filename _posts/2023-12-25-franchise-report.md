@@ -168,3 +168,11 @@ The G3SG/1 Stock being added was also major to RW. With the addition of the rail
 ### Ultradot PANAV
 
 The PANAV is a new sight that slightly resembles the Kobra in Phantom Forces. The main difference? The reticle is interchangeable **in-game**. This attachment is the first of its kind - an attachment that *immediately* switches to a new reticle when the sight is adjusted. 
+
+### C-More Slide Ride + Gooseneck Mount
+
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
+    <source src="assets/img/xmasreport-14.mp4" type="video/mp4"/>
+</video>
+
+The C-More Slide Ride was introduced in 2019 for the UMP submachine guns. However, as time went by, it began to show its age. Recently (this year), the C-More has been remodeled - and a new mount is introduced to allow the attachment of this optic on rifles like the M16A1 (yes, that's correct). Above is a GIF of the M16A1 *with* the C-More attached.
