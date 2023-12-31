@@ -176,3 +176,15 @@ The PANAV is a new sight that slightly resembles the Kobra in Phantom Forces. Th
 </video>
 
 The C-More Slide Ride was introduced in 2019 for the UMP submachine guns. However, as time went by, it began to show its age. Recently (this year), the C-More has been remodeled - and a new mount is introduced to allow the attachment of this optic on rifles like the M16A1 (yes, that's correct). Above is a GIF of the M16A1 *with* the C-More attached.
+
+### M4A1 Sling
+
+The M4A1's sling may not be important at first glance. However, the addition of its corresponding slot is another story.
+
+### EoTech Holographic Sight
+
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
+    <source src="assets/img/xmasreport-15.mp4" type="video/mp4"/>
+</video>
+
+A staple of Rodblogan Warfare for nearly **6 years**, this optic has been remodeled as of late. The new look resembles the first remodeleing attempt, but *way* more realistic than that. It is major due to the significance of the sight throughout the game's history (as well as the first-ever attempt at elevation adjustments).
