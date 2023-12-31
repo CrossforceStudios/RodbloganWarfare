@@ -4,7 +4,7 @@ title: "The 2023 RW Franchise Report"
 author: "Aerodos12"
 categories: reports
 tags: [reports]
-image: "xmasreport-10.jpg"
+image: "xmasreport-16.jpg"
 update_type: "reports"
 ---
 **NOTE:** This article is still under construction. It should be up by Christmas night. Thank you for your understamding and patience.
@@ -129,7 +129,7 @@ The Lucas Line was a reincarnation of The Underground War, a map made by the new
 
 ### Emerald Forest (Winter Edition)
 
-<img src="assets/img/xmasreport-16.png" class="img-large">
+<img src="assets/img/xmasreport-16.jpg" class="img-large">
 
 
 The Emerald Forest has now become engulfed in winter's gaze - covered in white and devoid of the green and the tents that stood in this forest. This map was also part of a **MAJOR** effort to increase the amount of alpine maps in the game (stems back to 2019 with *proposed* winter variants of the Crossroads).
