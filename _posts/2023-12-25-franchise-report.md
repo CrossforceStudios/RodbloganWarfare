@@ -132,7 +132,8 @@ A lot has happened this year regarding the customization of weapons, so let's se
 
 ### Furnitures & Alloys
 
-![L85A2 with the SA80 Tan Furniture](assets/img/xmasreport-11.png)
+<img src="assets/img/xmasreport-11.png" class="img-large">
+
 
 In January, 7 new furnitures were added for the FX-05 rifles and carbines. Some were solid colors, but 4 were ***very*** special. These camos haven't seen the light of day in RW since 2019. However, that changes with the reintroduction of these types of camos. Also, the SA80s received a new Tan Furniture and a new Green Furniture - the first ever for the new rifle. The Colt Python and HK21 also received furnitures/alloys as of April and June of 2023 (repsectively).
 
