@@ -4,6 +4,7 @@ title: "The 2023 RW Franchise Report"
 author: "Aerodos12"
 categories: reports
 tags: [reports]
+image: "xmasreport-10.jpg"
 update_type: "reports"
 ---
 **NOTE:** This article is still under construction. It should be up by Christmas night. Thank you for your understamding and patience.
@@ -128,6 +129,9 @@ The Lucas Line was a reincarnation of The Underground War, a map made by the new
 
 ### Emerald Forest (Winter Edition)
 
+<img src="assets/img/xmasreport-16.png" class="img-large">
+
+
 The Emerald Forest has now become engulfed in winter's gaze - covered in white and devoid of the green and the tents that stood in this forest. This map was also part of a **MAJOR** effort to increase the amount of alpine maps in the game (stems back to 2019 with *proposed* winter variants of the Crossroads).
 
 ## Customization
@@ -188,3 +192,6 @@ The M4A1's sling may not be important at first glance. However, the addition of 
 </video>
 
 A staple of Rodblogan Warfare for nearly **6 years**, this optic has been remodeled as of late. The new look resembles the first remodeleing attempt, but *way* more realistic than that. It is major due to the significance of the sight throughout the game's history (as well as the first-ever attempt at elevation adjustments).
+
+
+## 
