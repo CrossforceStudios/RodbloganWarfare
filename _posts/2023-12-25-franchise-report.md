@@ -134,8 +134,6 @@ A lot has happened this year regarding the customization of weapons, so let's se
 
 ![L85A2 with the SA80 Tan Furniture](assets/img/xmasreport-11.png)
 
-
-
 In January, 7 new furnitures were added for the FX-05 rifles and carbines. Some were solid colors, but 4 were ***very*** special. These camos haven't seen the light of day in RW since 2019. However, that changes with the reintroduction of these types of camos. Also, the SA80s received a new Tan Furniture and a new Green Furniture - the first ever for the new rifle. The Colt Python and HK21 also received furnitures/alloys as of April and June of 2023 (repsectively).
 
 ## Magazines
@@ -147,6 +145,8 @@ In 2023, The Thompsons (M1921-M1A1) received a new 20-round box magazine. Other 
 **MANY** attachments were added to Rodblogan Warfare this year. Here are prominent ones:
 
 ### Colt Python Barrels
+
+<video src="assets/img/xmasreport-12.mp4"></video>
 
 Both the stubby and targeting versions of the Colt Python's barrel came back this year. Returning in April, these barrels paved the way for the furniutre additions menitoned above as well as heavy sound changes to the longtime Revolver.
 
