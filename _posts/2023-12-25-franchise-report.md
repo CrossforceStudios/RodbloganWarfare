@@ -118,7 +118,8 @@ The first-ever war group map isn't just that - it's also a **MAJOR** development
 
 ### The Lucas Line
 
-![One of the Lucas Line trenches](assets/img/xmasreport-10.jpg)
+<img src="assets/img/xmasreport-10.jpg" class="img-large">
+
 
 The Lucas Line was a reincarnation of The Underground War, a map made by the new version's namesake ([@stickmasterluke](https://www.roblox.com/users/80254/profile)). It's new focus (major improvement) was the "underground" aspect for the map - the Wartime Tunnels (SCP-style tunnels that run underneath the battlefield). According to lore, the raids between Bloxxers and Robloxians would happen under there as well as above-ground. This is due to the line being a borderland (indicated by the ruins of a former farm in the area).
 
