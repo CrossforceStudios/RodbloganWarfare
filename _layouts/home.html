@@ -1,77 +1,82 @@
 ---
 layout: default
 ---
-<div id="splash-img" class="hero fullscreen hero-img parallax-img" style="background-image: url('{{ site.github.url }}/assets/img/hero-img.png');">
-  <div class="hero-body">
-    <h1 class="uppercase text-green title">RODBLOGAN WARFARE</h1>
-    <h3 class="uppercase text-white sub-title u-opacity-70">Nostalgia - Redefined</h3>
-  </div>
-
-</div>
-{% for post in paginator.posts %}
-  <div class="hero bg-green-200 px-200 my-8">
+<div class="home-desktop">
+  <div id="splash-img" class="hero fullscreen hero-img parallax-img" style="background-image: url('{{ site.github.url }}/assets/img/hero-img.png');">
     <div class="hero-body">
-      <div class="content">
-        <h2 class="title">{{ post.title }}</h2>
-        {% if post.image %}
-          <div class="thumbnail-container">
-            <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-          </div>
-        {% endif %}
-          {% if post.update_type == "changelog" %}
-            <h5 class="subtitle text-gray-700">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
-          {% else %}
-          <h5 class="subtitle text-gray-700">
-            {{ post.content | strip_html | truncate: 64 }} 
-          </h5>
-          {% endif %}
-          <div class="u-pull-right">
-            <a class="btn" href="{{ site.github.url }}{{ post.url }}">
-              <i class="fa-wrapper fa fa-chevron-right pad-left"></i>
-              Read more
-            </a>
-            <div class="tag-container group-tags group-tags--rounded">
-              <div class="tag tag--md bg-yellow-300"><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date_to_string }}</div>
-              <div class="tag tag--md bg-green-300"><i class="fa fa-clock-o" aria-hidden="true"></i>{% include read-time.html %}</div>
-
+      <h1 class="uppercase text-green title">RODBLOGAN WARFARE</h1>
+      <h3 class="uppercase text-white sub-title u-opacity-70">Nostalgia - Redefined</h3>
+    </div>
+  
+  </div>
+  {% for post in paginator.posts %}
+    <div class="hero bg-green-200 px-200 my-8">
+      <div class="hero-body">
+        <div class="content">
+          <h2 class="title">{{ post.title }}</h2>
+          {% if post.image %}
+            <div class="thumbnail-container">
+              <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
             </div>
-          </div>
+          {% endif %}
+            {% if post.update_type == "changelog" %}
+              <h5 class="subtitle text-gray-700">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+            {% else %}
+            <h5 class="subtitle text-gray-700">
+              {{ post.content | strip_html | truncate: 64 }} 
+            </h5>
+            {% endif %}
+            <div class="u-pull-right">
+              <a class="btn" href="{{ site.github.url }}{{ post.url }}">
+                <i class="fa-wrapper fa fa-chevron-right pad-left"></i>
+                Read more
+              </a>
+              <div class="tag-container group-tags group-tags--rounded">
+                <div class="tag tag--md bg-yellow-300"><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date_to_string }}</div>
+                <div class="tag tag--md bg-green-300"><i class="fa fa-clock-o" aria-hidden="true"></i>{% include read-time.html %}</div>
+  
+              </div>
+            </div>
+        </div>
+      </div>
       </div>
     </div>
+  {% endfor %}
+  <!-- Pagination links -->
+  <div class="pagination no-bullets">
+    {% if paginator.previous_page %}
+    <div class="pagination-item pagination-prev">
+      <a class="u-block animated bounce" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+        <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
+        <h5 class="m-0">Later News</h5></a>
+      </a>
     </div>
-  </div>
-{% endfor %}
-<!-- Pagination links -->
-<div class="pagination no-bullets">
-  {% if paginator.previous_page %}
-  <div class="pagination-item pagination-prev">
-    <a class="u-block animated bounce" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
-      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
-      <h5 class="m-0">Later News</h5></a>
+  {% else %}
+    <div class="pagination-item pagination-prev">
+      <div class="u-block">
+        <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
+        <h5 class="m-0">Later News</h5></a>
+      </div>
+    </div>
+  {% endif %}
+  {% if paginator.next_page %}
+  <div class="pagination-item pagination-next">
+    <a class="u-block animated bounce" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
+      <h5 class="m-0">Earlier News</h5></a>
     </a>
   </div>
-{% else %}
-  <div class="pagination-item pagination-prev">
+  {% else %}
+  <div class="pagination-item pagination-next">
     <div class="u-block">
-      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.next_page }}</p>
-      <h5 class="m-0">Later News</h5></a>
+      <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
+      <h5 class="m-0">Earlier News</h5></a>
     </div>
   </div>
-{% endif %}
-{% if paginator.next_page %}
-<div class="pagination-item pagination-next">
-  <a class="u-block animated bounce" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
-    <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
-    <h5 class="m-0">Earlier News</h5></a>
-  </a>
+  {% endif %}
+   
+  </div>  
 </div>
-{% else %}
-<div class="pagination-item pagination-next">
-  <div class="u-block">
-    <p class="pagination-item-subtitle">{{ site.data.settings.pagination.previous_page }}</p>
-    <h5 class="m-0">Earlier News</h5></a>
-  </div>
-</div>
-{% endif %}
- 
+<div class="home-mobile">
+
 </div>
