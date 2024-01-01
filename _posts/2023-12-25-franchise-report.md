@@ -203,3 +203,5 @@ Character Movement has also been a focus of 2023. Here are some highlights:
 <video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
     <source src="assets/img/xmasreport-17.mp4" type="video/mp4"/>
 </video>
+
+Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this year, it came back. Refined with a  new effect, better climb out of the water, and a little more polish, this mechanic is here to stay.
