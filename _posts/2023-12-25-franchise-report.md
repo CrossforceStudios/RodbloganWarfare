@@ -210,5 +210,5 @@ Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this y
 
 ## Weapon Sway (Aimed)
 
-Before, weapons didn't move much when aimed and in motin. Now, that has since changed. Although not as noticeable, the weapon sway has been reinstated and will soon be expanded in 2024.
+Before, weapons didn't move much when aimed and in motion. Now, that has since changed. Although not as noticeable, the weapon sway has been reinstated and will soon be expanded in 2024. Weapon sway is also dependent on speed, so it won't be arcadey.
 
