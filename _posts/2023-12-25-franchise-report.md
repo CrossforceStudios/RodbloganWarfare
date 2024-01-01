@@ -196,4 +196,10 @@ A staple of Rodblogan Warfare for nearly **6 years**, this optic has been remode
 
 ## Character Movement
 
-Character Movement has also been a focus of 2023.
+Character Movement has also been a focus of 2023. Here are some highlights: 
+
+### Swimming
+
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
+    <source src="assets/img/xmasreport-17.mp4" type="video/mp4"/>
+</video>
