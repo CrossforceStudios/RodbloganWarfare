@@ -204,7 +204,6 @@ Character Movement has also been a focus of 2023. Here are some highlights:
     <source src="assets/img/xmasreport-17.mp4" type="video/mp4"/>
 </video>
 
-<<<<<<< HEAD
 Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this year, it came back. Refined with a  new effect, better climb out of the water, and a little more polish, this mechanic is here to stay.
 
 
@@ -213,6 +212,3 @@ Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this y
 
 Before, weapons didn't move much when aimed and in motin. Now, that has since changed. Although not as noticeable, the weapon sway has been reinstated and will soon be expanded in 2024.
 
-=======
-Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this year, it came back. Refined with a  new effect, better climb out of the water, and a little more polish, this mechanic is here to stay.
->>>>>>> parent of f54f37f (Weapon Sway)
