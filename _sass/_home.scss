@@ -18,6 +18,7 @@
 
         overflow-x: auto;
         scroll-snap-type: x mandatory;
+        overscroll-behavior: contain;
         touch-action: pan-x;
 
         .rw-theatre {
