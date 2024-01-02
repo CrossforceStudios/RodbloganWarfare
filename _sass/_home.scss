@@ -23,6 +23,8 @@
 
         .rw-theatre {
           display: grid;
+          grid: [story] 1fr / [story] 1fr;
+
         }
       }
 
