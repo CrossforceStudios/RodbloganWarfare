@@ -79,8 +79,10 @@ layout: default
 <div class="home-mobile">
   <div class="rw-stories">
     {% for category in site.categories %}
-      <div class="rw-theatre" data-theatre="{{ category }}">
-        <h3>{{ category }}</h3>
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+
+      <div class="rw-theatre" data-theatre="{{ category_name }}">
+        <h3>{{ category_name }}</h3>
       </div>
     {% endfor %}
   </div>
