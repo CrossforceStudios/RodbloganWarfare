@@ -18,7 +18,14 @@
 
         overflow-x: auto;
         scroll-snap-type: x mandatory;
+        touch-action: pan-x;
+
+        .rw-theatre {
+          display: grid;
+        }
       }
+
+    
   }
 }
 
