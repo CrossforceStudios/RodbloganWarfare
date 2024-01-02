@@ -6,6 +6,13 @@
   .home-desktop {
     display: none;
   }
+
+  .home-mobile {
+      .rw-stories{
+        inline-size: 100vw;
+        block-size: 100vh;
+      }
+  }
 }
 
 @media (min-width: 1025px) {
