@@ -14,6 +14,9 @@
 
         display: grid;
         grid: 1fr / auto-flow 100%;
+        gap: 1ch;
+
+        overflow-x: auto;
       }
   }
 }
