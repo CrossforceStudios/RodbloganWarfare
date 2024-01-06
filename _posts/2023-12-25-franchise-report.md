@@ -212,3 +212,7 @@ Swimming had been in RW since 2019 but was removed in 2021. Then, earlier this y
 
 Before, weapons didn't move much when aimed and in motion. Now, that has since changed. Although not as noticeable, the weapon sway has been reinstated and will soon be expanded in 2024. Weapon sway is also dependent on speed, so it won't be arcadey.
 
+
+## AI
+
+Various improvements have been made to AI in Rodblogan Warfare. One of them was the reinstatement of the Medic's defense (his pistol). Another could be an improved Pilot Crewman AI (when flying). In 2024, there is much more to come regarding AI.
