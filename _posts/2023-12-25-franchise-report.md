@@ -244,4 +244,28 @@ The 3-round meanie has also returned (that's right, the M16A4). Despite the US p
 
 ## Vehicles
 
+Vehicles also had major improvements in 2023. Here are the most notable ones:
+
+### RSV-95 replaces the RSV-94 in combat
+
+<img src="assets/img/xmasreport-20.png" class="img-large">
+
+The RSV-94 did serve it's purpose (at the time) as a stepping stone to the end goal. Unfortunately (for itself), the end goal has arrived.
+The RSV-95 is what you see above this text - an MBT (main battle tank) that now has a machine gun turret for the commander to use when under fire.
+Also, the edges of the tank have been refined as well as an improved barrel sight.
+
+### Advent of the RHIB and RHIB-II
+
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
+    <source src="assets/img/xmasreport-21.mp4" type="video/mp4"/>
+</video>
+
+Smaller boats have arrived to RW. They were a planned feature for many years, but other matters got in the way. Until 2023.
+
+### The replacement of the SKW-62K
+
+<img src="assets/img/xmasreport-22.png" class="img-large">
+
+The PW-56K has officially replaced the SKW-62K. Plans for this were made beforehand, but a fear of losing the charms of the replaced vehicle came about. Then an idea was realized: What if the PW-56 can be the basis of a newer version of the SKW, but better? Then, the PW56K was born.
+
 ## RW: Harsh Doorstop
