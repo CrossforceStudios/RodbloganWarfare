@@ -216,3 +216,32 @@ Before, weapons didn't move much when aimed and in motion. Now, that has since c
 ## AI
 
 Various improvements have been made to AI in Rodblogan Warfare. One of them was the reinstatement of the Medic's defense (his pistol). Another could be an improved Pilot Crewman AI (when flying). In 2024, there is much more to come regarding AI.
+
+## Weapons
+
+Various weapons have been added to RW (countless, in fact). Here are a few notable entries:
+
+### AKM
+
+<img src="assets/img/xmasreport-18.png" class="img-large">
+
+Yes. Indeed, the AKM has returned. With a new steel material (as well as better handling of the weapon itself) and accompanying variant (the AK-56, or Type 56), this weapon is here to stay and is utilized by various factions (Republic included).
+
+### L85A2
+
+<img src="assets/img/xmasreport-11.png" class="img-large">
+
+As stated before, the L85 returned to RW for the first time in 4 years (as of 2023). This weapon not only received a great face lift, but also some accompanying attachment and funiture upgrades too. The most notable of these? The Furnitures (Tan and Green).
+
+### M16A4
+
+<video  poster="assets/img/xmasreport-10.jpg" autoplay loop muted playsinline class="img-large">
+    <source src="assets/img/xmasreport-19.mp4" type="video/mp4"/>
+</video>
+
+The 3-round meanie has also returned (that's right, the M16A4). Despite the US phasing the venerable assault rifle out of their ranks, this weapon is back and here to stay in RW. Featuring more selections of optics, the ability to use the AG-36 (will be the AG-C in standalone), a new furniture and more, We couldn't be happier about it!
+
+
+## Vehicles
+
+## RW: Harsh Doorstop
