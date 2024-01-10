@@ -55,7 +55,7 @@ The heavier, utilitarian Crewman unit of the Republic has an even simpler look a
 
 ### 4. Robloxian (Robian) Ranger
 
-![Robloxian Ranger](assets/img/xmasreport-04.png)
+<img src="assets/img/xmasreport-04" class="img-large">
 
 The classic marksman has also been reworked - both physically and functionally. Here are the new sub-units: 
 
@@ -269,3 +269,23 @@ Smaller boats have arrived to RW. They were a planned feature for many years, bu
 The PW-56K has officially replaced the SKW-62K. Plans for this were made beforehand, but a fear of losing the charms of the replaced vehicle came about. Then an idea was realized: What if the PW-56 can be the basis of a newer version of the SKW, but better? Then, the PW56K was born.
 
 ## RW: Harsh Doorstop
+
+A new endeavour - Rodblogan Warfare: Harsh Doorstop (Edition) has been announced in February of 2023. It's essentially Rodblogan Warfare, but in Operation: Harsh Doorstop. If you want to check out the host game (Harsh Doorstop itself), see the widget below.
+
+<iframe src="https://store.steampowered.com/widget/736590/?t=To%20play%20with%20the%20%20Rodblogan%20Warfare%3A%20Harsh%20Doorstop%20mod%20and%20various%20others%20for%20O%3AHD%2C%20download%20O%3AHD%20today!.%0A%0ANOTE%3A%20RW%3AHD%20is%20still%20under%20construction.%20Should%20be%20available%20by%20the%20end%20of%202024.%0A" frameborder="0" width="646" height="190"></iframe>
+
+Anyways, here are 2023's RW:HD highlights.
+
+### Groundbreaking
+
+<img src="assets/img/scoreboard.png" class="img-large">
+
+After a loss of the original mod due to hardware failure in August, a new version was made. The first mode for RW:HD was (and will be) Lifeline, A high-stakes mode, this mode has no respawns and requires a bit of carefulness to win outright. Lose 75% of your squad and the game is over. Lose you player SL and the game is also over. The objective? Same thing - game over. To ensure that this (and other planned modes) are guaranteed, the scoreboard needed to be changed. The above image is the new scoreboard for the mod (and possibly for the original game itself). Also, emblems were made for both the mod and the game as well ( see the image below).
+
+<img src="assets/img/spawn-menu.png" class="img-large">
+
+### Progress I: Characters & Rifles
+
+<video  poster="assets/img/xmasreport-10.jpg" controls  class="img-large">
+    <source src="assets/img/xmasreport-23.mp4" type="video/mp4"/>
+</video>
