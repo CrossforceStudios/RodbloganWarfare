@@ -55,7 +55,7 @@ The heavier, utilitarian Crewman unit of the Republic has an even simpler look a
 
 ### 4. Robloxian (Robian) Ranger
 
-<img src="assets/img/xmasreport-04" class="img-large">
+<img src="assets/img/xmasreport-04.png" class="img-large">
 
 The classic marksman has also been reworked - both physically and functionally. Here are the new sub-units: 
 
@@ -286,6 +286,10 @@ After a loss of the original mod due to hardware failure in August, a new versio
 
 ### Progress I: Characters & Rifles
 
+#### Sound 
+
 <video  poster="assets/img/xmasreport-10.jpg" controls  class="img-large">
     <source src="assets/img/xmasreport-23.mp4" type="video/mp4"/>
 </video>
+
+The M60 Machine Gun, AKM and M16A1 have one thing in common: They all received new sounds for firing. In keeping our promise, the weapons use the **ORIGINAL** sounds from the base game.
