@@ -286,10 +286,11 @@ After a loss of the original mod due to hardware failure in August, a new versio
 
 ### Progress I: Characters & Rifles
 
-#### Sound 
+#### Sound
 
 <video  poster="assets/img/xmasreport-10.jpg" controls  class="img-large">
     <source src="assets/img/xmasreport-23.mp4" type="video/mp4"/>
 </video>
 
-The M60 Machine Gun, AKM and M16A1 have one thing in common: They all received new sounds for firing. In keeping our promise, the weapons use the **ORIGINAL** sounds from the base game.
+The M60 Machine Gun, AKM and M16A1 have one thing in common: They all received new sounds for firing. In keeping our promise, the weapons use the **ORIGINAL** sounds from the base game. More sounds are planned to make their debut, but for rn, things are in limbo.
+
