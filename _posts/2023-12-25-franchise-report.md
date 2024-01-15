@@ -294,3 +294,10 @@ After a loss of the original mod due to hardware failure in August, a new versio
 
 The M60 Machine Gun, AKM and M16A1 have one thing in common: They all received new sounds for firing. In keeping our promise, the weapons use the **ORIGINAL** sounds from the base game. More sounds are planned to make their debut, but for rn, things are in limbo.
 
+
+### Character Appearance
+
+
+## Conclusion
+
+Overall, progress was steady, but concise in 2023. The introduction of new maps, weapons, features and vehicles led to the further modernization of the game. Moreover, a mod for O:HD introduced to possiblity of RW being on the Standalone market. Nevertheless, 2023 is done - have a toast... to progress in 2024!
