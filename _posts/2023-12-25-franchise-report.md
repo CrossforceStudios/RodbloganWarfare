@@ -7,7 +7,6 @@ tags: [reports]
 image: "xmasreport-16.jpg"
 update_type: "reports"
 ---
-**NOTE:** This article is still under construction. It should be up by Christmas night. Thank you for your understamding and patience.
 
 It is finally Chirstmas Day, 2023. After 11 cold, but hard-fought months, Rodblogan Warfare has more waffen than it had in 2022.
 After 11 cold, but hard-fought months, RW finally has a main theme of its own. After 11 cold, but hard-fought months, RWHD is starting to look real.
@@ -297,6 +296,7 @@ The M60 Machine Gun, AKM and M16A1 have one thing in common: They all received n
 
 ### Character Appearance
 
+Characters in the mod have been customized further. However, due to their state, they won't be shown here (they are not the final result, so they need more time to develop).
 
 ## Conclusion
 
