@@ -7,6 +7,7 @@
     display: none;
   }
 
+
   .home-mobile {
       .rw-stories{
         inline-size: 100vw;
@@ -24,6 +25,8 @@
         .rw-theatre {
           display: grid;
           grid: [story] 1fr / [story] 1fr;
+          scroll-snap-align: start;
+          scroll-snap-stop: always;
 
         }
       }
@@ -31,6 +34,8 @@
     
   }
 }
+
+
 
 @media (min-width: 1025px) {
   .home-mobile {
@@ -70,5 +75,6 @@
     width: 100vw;
   }
 }
+
 
 
