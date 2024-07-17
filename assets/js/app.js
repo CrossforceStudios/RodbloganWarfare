@@ -58,6 +58,7 @@ $(function(){
   
 
     stories.click(function(e){
+        console.log(e.target.nodeName);
         if(e.target.nodeName !== "ARTICLE")
             return;
 
