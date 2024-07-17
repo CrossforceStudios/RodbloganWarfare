@@ -39,6 +39,7 @@
             ]
         }
     ],
+    "theme_color": "#55AA7F",
     "display": "standalone",
     "display_override": ["window-controls-overlay"]
 }
