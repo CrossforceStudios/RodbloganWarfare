@@ -97,7 +97,17 @@ layout: default
 
       <div class="rw-theatre" data-theatre="{{ category_name }}">
         <h3 class="rw-theatre-title">{{ category_name }}</h3>
-       
+        {% for post in category %}
+            {% if post.image %}
+            <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
+              
+            </article>
+            {% else %}
+            <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/hero-img.png'); ">
+              
+            </article>
+          {% endif %}
+      {% endfor %}
       </div>
     {% endfor %}
   </div>

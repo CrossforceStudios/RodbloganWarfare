@@ -12,4 +12,6 @@ $(function(){
         $("#" + $(this).data("navid")).toggleClass('active'); // Hide all other dropdown menus
         $(this).toggleClass('active'); // Hide all other dropdown menus
     });
+
+    // const stories = document.querySelector()
   });
