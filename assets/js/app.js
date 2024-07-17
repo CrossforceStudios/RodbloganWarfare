@@ -13,5 +13,61 @@ $(function(){
         $(this).toggleClass('active'); // Hide all other dropdown menus
     });
 
-    // const stories = document.querySelector()
+    const stories = $(".rw-stories");
+    const median = stories.offset().left + (stories.width() /2);
+    const state = {
+        current_story: stories.first().last()
+    };
+
+    let navigateStories = (direction) => {
+            const story = state.current_story;
+            const lastItemInUserStory = story.parent().first();
+            const firstItemInUserStory = story.parent().last();
+            const hasNextUserStory = story.parent().next();
+            const hasPrevUserStory = story.parent().prev();
+            if (direction === 'next') {
+                if (lastItemInUserStory === story && !hasNextUserStory)
+                  return
+                else if (lastItemInUserStory === story && hasNextUserStory) {
+                  state.current_story = story.parent().next().last();
+                  story.parent().next()[0].scrollIntoView({
+                    behavior: 'smooth'
+                  })
+                }
+                else {
+                  story.addClass('seen');
+                  state.current_story = story.prev();
+                }
+              }
+              else if(direction === 'prev') {
+                if (firstItemInUserStory === story && !hasPrevUserStory)
+                  return
+                else if (firstItemInUserStory === story && hasPrevUserStory) {
+                  state.current_story = story.parent().prev().first();
+                  story.parent().prev()[0].scrollIntoView({
+                    behavior: 'smooth'
+                  })
+                }
+                else {
+                  story.next().removeClass('seen')
+                  state.current_story = story.next();
+                }
+              }
+    }
+
+  
+
+    stories.click(function(e){
+        if(e.target.nodeName !== "ARTICLE")
+            return;
+
+        navigateStories(e.clientX > median ? "next" : "prev")
+    });
+
+    stories.keydown(function(e){
+        if (key !== 'ArrowDown' || key !== 'ArrowUp')
+            navigateStories( key === 'ArrowDown'  ? 'next': 'prev')
+
+    });
+
   });
