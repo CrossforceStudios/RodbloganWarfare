@@ -80,7 +80,7 @@ layout: default
   <div class="rw-stories">
     <div class="rw-theatre" data-theatre="all">
       <h3 class="rw-theatre-title">All</h3>
-      {% for post in paginator.posts %}
+      {% for post in site.posts %}
         {% if post.image %}
         <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
           
