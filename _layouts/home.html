@@ -79,24 +79,20 @@ layout: default
 <div class="home-mobile">
   <div class="rw-stories">
     <div class="rw-theatre" data-theatre="all">
-      <h3>All Content</h3>
+      <h3 class="rw-theatre-title">All</h3>
+      {% for post in paginator.posts %}
+        {% if post.image %}
+        <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
+          
+        </article>
+      {% endif %}
+   {% endfor %}
     </div>
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
 
       <div class="rw-theatre" data-theatre="{{ category_name }}">
         <h3 class="rw-theatre-title">{{ category_name }}</h3>
-        {% if category_name == "all" %}
-           {% for post in paginator.posts %}
-              {% if post.image %}
-              <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
-                
-              </article>
-            {% endif %}
-           {% endfor %}
-
-        
-        {% endif %}
        
       </div>
     {% endfor %}
