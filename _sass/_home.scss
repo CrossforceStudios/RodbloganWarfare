@@ -36,6 +36,8 @@
             background-image:
             var(--bg),
             linear-gradient(to top, lch(98 0 0), lch(90 0 0));
+            user-select: none;
+            touch-action: manipulation;
           }
         }
       }
