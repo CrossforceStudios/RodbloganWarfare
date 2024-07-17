@@ -35,8 +35,11 @@
   app-region: drag;
   .nav-right {
     padding-right: calc(titlebar-area-width / 4);
+    app-region: no-drag;
+
   }
   .header-brand {
+    app-region: no-drag;
     h6 {
       height: 100%;
     }
