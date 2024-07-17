@@ -13,62 +13,68 @@ $(function(){
         $(this).toggleClass('active'); // Hide all other dropdown menus
     });
 
-    const stories = $(".rw-stories");
-    const median = stories.offset().left + (stories.width() /2);
+    const stories = document.querySelector('.rw-stories')
+    const median = stories.offsetLeft + (stories.clientWidth / 2)
+    
     const state = {
-        current_story: stories.first().last()
-    };
-
-    let navigateStories = (direction) => {
-            const story = state.current_story;
-            const lastItemInUserStory = story.parent().first();
-            const firstItemInUserStory = story.parent().last();
-            const hasNextUserStory = story.parent().next();
-            const hasPrevUserStory = story.parent().prev();
-            if (direction === 'next') {
-                if (lastItemInUserStory === story && !hasNextUserStory)
-                  return
-                else if (lastItemInUserStory === story && hasNextUserStory) {
-                  state.current_story = story.parent().next().last();
-                  story.parent().next()[0].scrollIntoView({
-                    behavior: 'smooth'
-                  })
-                }
-                else {
-                  story.addClass('seen');
-                  state.current_story = story.prev();
-                }
-              }
-              else if(direction === 'prev') {
-                if (firstItemInUserStory === story && !hasPrevUserStory)
-                  return
-                else if (firstItemInUserStory === story && hasPrevUserStory) {
-                  state.current_story = story.parent().prev().first();
-                  story.parent().prev()[0].scrollIntoView({
-                    behavior: 'smooth'
-                  })
-                }
-                else {
-                  story.next().removeClass('seen')
-                  state.current_story = story.next();
-                }
-              }
+      current_story: stories.firstElementChild.lastElementChild
     }
+    
+    stories.addEventListener('click', e => {
+      if (e.target.nodeName !== 'ARTICLE')
+        return
+    
+      navigateStories(
+        e.clientX > median
+          ? 'next'
+          : 'prev')
+    })
+    
+    document.addEventListener('keydown', ({key}) => {
+      if (key !== 'ArrowDown' || key !== 'ArrowUp')
+        navigateStories(
+          key === 'ArrowDown'
+            ? 'next'
+            : 'prev')
+    })
+
+        const navigateStories = direction => {
+            const story = state.current_story
+            const lastItemInUserStory = story.parentNode.firstElementChild
+            const firstItemInUserStory = story.parentNode.lastElementChild
+            const hasNextUserStory = story.parentElement.nextElementSibling
+            const hasPrevUserStory = story.parentElement.previousElementSibling
+          
+            if (direction === 'next') {
+              if (lastItemInUserStory === story && !hasNextUserStory)
+                return
+              else if (lastItemInUserStory === story && hasNextUserStory) {
+                state.current_story = story.parentElement.nextElementSibling.lastElementChild
+                story.parentElement.nextElementSibling.scrollIntoView({
+                  behavior: 'smooth'
+                })
+              }
+              else {
+                story.classList.add('seen')
+                state.current_story = story.previousElementSibling
+              }
+            }
+            else if(direction === 'prev') {
+              if (firstItemInUserStory === story && !hasPrevUserStory)
+                return
+              else if (firstItemInUserStory === story && hasPrevUserStory) {
+                state.current_story = story.parentElement.previousElementSibling.firstElementChild
+                story.parentElement.previousElementSibling.scrollIntoView({
+                  behavior: 'smooth'
+                })
+              }
+              else {
+                story.nextElementSibling.classList.remove('seen')
+                state.current_story = story.nextElementSibling
+              }
+            }
+          }
 
   
-
-    stories.click(function(e){
-        console.log(e.target.nodeName);
-        if(e.target.nodeName !== "ARTICLE")
-            return;
-
-        navigateStories(e.clientX > median ? "next" : "prev")
-    });
-
-    stories.keydown(function(e){
-        if (key !== 'ArrowDown' || key !== 'ArrowUp')
-            navigateStories( key === 'ArrowDown'  ? 'next': 'prev')
-
-    });
 
   });
