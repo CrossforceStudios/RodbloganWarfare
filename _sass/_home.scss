@@ -33,7 +33,9 @@
           .rw-story {
             grid-area: story;
             background-size: cover;
-
+            background-image:
+            var(--bg),
+            linear-gradient(to top, lch(98 0 0), lch(90 0 0));
           }
         }
       }
