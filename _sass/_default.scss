@@ -27,13 +27,15 @@
 
 #title-header {
   position: fixed;
-  background-image: linear-gradient(90deg, rgb(255, 232, 126), rgb(249, 249, 249), 33%, rgb(255, 200, 64));
   left: env(titlebar-area-x, 0);
   top: env(titlebar-area-y, 0);
   width: env(titlebar-area-width, 100%);
   height: env(titlebar-area-height, 33px);
   -webkit-app-region: drag;
   app-region: drag;
+  .nav-right {
+    padding-right: calc(titlebar-area-width / 4);
+  }
 }
 
 
