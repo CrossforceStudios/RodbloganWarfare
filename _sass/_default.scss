@@ -101,6 +101,9 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  img {
+    filter: brightness(.8) contrast(1.2);
+  }
   .header {
     background-color: rgb(50,50,50);
     * {
