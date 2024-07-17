@@ -85,6 +85,10 @@ layout: default
         <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
           
         </article>
+        {% else %}
+        <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/hero-img.png'); ">
+          
+        </article>
       {% endif %}
    {% endfor %}
     </div>
