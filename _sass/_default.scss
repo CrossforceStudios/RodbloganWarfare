@@ -62,10 +62,19 @@
   padding-right: 10px;
 }
 
-.menu-item-rw:hover , .menu-item-rw a:hover {
-  color: rgb(25,25,25);
-  background-color: rgb(255,232,126);
+.menu-item-rw, .menu-item-rw a {
+  :hover{
+    color: rgb(25,25,25);
+    background-color: rgb(255,232,126);
+  }
 }
+
+@media (prefers-color-scheme: dark) {
+  .menu-content a {
+    color: rgb(248,248,248);
+  }
+}
+
 
 .social-icons {
   float: right;
