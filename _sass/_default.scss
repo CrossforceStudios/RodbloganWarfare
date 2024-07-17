@@ -31,6 +31,9 @@
   top: env(titlebar-area-y, 0);
   width: env(titlebar-area-width, 100%);
   height: env(titlebar-area-height, 5%);
+  @media (max-width: 480px) {
+    height: 15%;
+  }
   -webkit-app-region: drag;
   app-region: drag;
   .nav-right {
