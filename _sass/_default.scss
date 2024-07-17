@@ -137,13 +137,15 @@
     background-color: rgb(100,100,100);
     .footer__title { 
       color: rgb(248,248,248);
-
+      :hover {
+        color: rgb(85,170,127);
+      }
     }
     .content {
       color: rgb(248,248,248);
-    }
-    .social {
-      color: rgb(248,248,248);
+      :hover {
+        color: rgb(85,170,127);
+      }
     }
   }
 
