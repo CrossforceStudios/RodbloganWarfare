@@ -36,6 +36,12 @@
   .nav-right {
     padding-right: calc(titlebar-area-width / 4);
   }
+  .header-brand {
+    h6 {
+      height: 100%;
+    }
+  }
+
 }
 
 
