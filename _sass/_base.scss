@@ -25,10 +25,12 @@ a:hover {
   border-bottom: none;
 }
 
-img {
+img, video, iframe {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
+  max-inline-size: 100%;
+  block-size: auto;
 }
 
 blockquote {
