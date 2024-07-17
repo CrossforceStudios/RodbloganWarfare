@@ -89,9 +89,9 @@ layout: default
         {% if category_name == "all" %}
            {% for post in paginator.posts %}
               {% if post.image %}
-              <div class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
+              <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
                 
-              </div>
+              </article>
             {% endif %}
            {% endfor %}
 
