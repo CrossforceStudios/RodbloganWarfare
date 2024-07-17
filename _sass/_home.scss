@@ -27,7 +27,9 @@
           grid: [story] 1fr / [story] 1fr;
           scroll-snap-align: start;
           scroll-snap-stop: always;
-
+          .rw-theatre-title {
+            color: rgb(25,25,25);
+          }
         }
       }
 
