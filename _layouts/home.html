@@ -88,7 +88,7 @@ layout: default
               <div class="content u-text-center">
                   <h1 class="uppercase text-white title">{{ post.title }}</h1>
                   {% if post.update_type == "changelog" %}
-                  <h3 class="uppercase text-white sub-title u-opacity-70">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+                  <h3 class="uppercase text-white sub-title u-opacity-90">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
                 {% else %}
                 <h3 class="uppercase text-white sub-title u-opacity-70">
                   {{ post.content | strip_html | truncate: 64 }} 
@@ -105,7 +105,7 @@ layout: default
               <div class="content u-text-center">
                   <h1 class="uppercase text-white title">{{ post.title }}</h1>
                   {% if post.update_type == "changelog" %}
-                  <h3 class="uppercase text-white sub-title u-opacity-70">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+                  <h3 class="uppercase text-white sub-title u-opacity-90">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
                 {% else %}
                 <h3 class="uppercase text-white sub-title u-opacity-70">
                   {{ post.content | strip_html | truncate: 64 }} 
