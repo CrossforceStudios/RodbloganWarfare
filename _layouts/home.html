@@ -83,11 +83,35 @@ layout: default
       {% for post in site.posts %}
         {% if post.image %}
         <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/{{ post.image }}'); ">
-          
+          <div id="splash-img" class="hero fullscreen hero-img parallax-img img-stretch" alt="">
+            <div class="hero-body">
+              <div class="content u-text-center">
+                  <h1 class="uppercase text-white title">{{ post.title }}</h1>
+                  {% if post.update_type == "changelog" %}
+                  <h3 class="uppercase text-white sub-title u-opacity-70">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+                {% else %}
+                <h3 class="uppercase text-white sub-title u-opacity-70">
+                  {{ post.content | strip_html | truncate: 64 }} 
+                </h3>
+                {% endif %}
+               </div>
+            </div>
         </article>
         {% else %}
         <article class="rw-story" style="--bg: url('{{ site.github.url }}/assets/img/hero-img.png'); ">
-          
+          <div id="splash-img" class="hero fullscreen hero-img parallax-img img-stretch" alt="">
+            <div class="hero-body">
+              <div class="content u-text-center">
+                  <h1 class="uppercase text-white title">{{ post.title }}</h1>
+                  {% if post.update_type == "changelog" %}
+                  <h3 class="uppercase text-white sub-title u-opacity-70">A concise reflection of the changes made since/until {{ post.date | date_to_string }}</h5>
+                {% else %}
+                <h3 class="uppercase text-white sub-title u-opacity-70">
+                  {{ post.content | strip_html | truncate: 64 }} 
+                </h3>
+                {% endif %}
+               </div>
+            </div>
         </article>
       {% endif %}
    {% endfor %}
