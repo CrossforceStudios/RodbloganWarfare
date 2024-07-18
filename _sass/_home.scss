@@ -40,7 +40,13 @@
             touch-action: manipulation;
 
             transition: opacity .3s cubic-bezier(0.4, 0.0, 1, 1);
-
+            .rw-story-content {
+              h1 {
+                font-size: 24rem;
+                left: 25%;
+                top: 75%;
+              }
+            }
             &.seen {
               opacity: 0;
               pointer-events: none;
