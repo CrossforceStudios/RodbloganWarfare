@@ -46,6 +46,11 @@
                 position-anchor: --anchor-el;
                 top: anchor(bottom);
               }
+              h3 {
+                font-size: 1.8rem;
+                position-anchor: --anchor-el;
+                top: anchor(bottom);
+              }
             }
             &.seen {
               opacity: 0;
