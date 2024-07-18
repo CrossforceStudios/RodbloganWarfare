@@ -90,7 +90,7 @@ layout: default
               <div class="rw-story-content">
                   <h1 class="uppercase text-white title">{{ post.title }}</h1>
                   {% if post.update_type == "changelog" %}
-                  <h3 class="uppercase text-white sub-title u-opacity-90">Changes made since/until {{ post.date | date_to_string }}</h5>
+                  <h3 class="uppercase text-white sub-title u-opacity-90">Changes made since/until {{ post.date | date_to_string }}</h3>
                 {% else %}
                 <h3 class="uppercase text-white sub-title u-opacity-70">
                   {{ post.content | strip_html | truncate: 64 }} 
