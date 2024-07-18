@@ -44,6 +44,7 @@
               h1 {
                 font-size: 24rem;
                 position-anchor: --anchor-el;
+                top: anchor(bottom);
               }
             }
             &.seen {
