@@ -43,8 +43,7 @@
             .rw-story-content {
               h1 {
                 font-size: 24rem;
-                left: 25%;
-                top: 75%;
+                position-anchor: --anchor-el;
               }
             }
             &.seen {
